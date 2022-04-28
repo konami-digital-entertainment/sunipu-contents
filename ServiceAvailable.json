@@ -1,0 +1,9 @@
+{
+    "online": true,
+    "rankMatch": true,
+    "doubleMatch": false,
+    "learning": false,
+    "roulette": false,
+    "encyclopedia": false,
+    "dungeon": false
+  }

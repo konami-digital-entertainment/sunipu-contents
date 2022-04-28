@@ -1,0 +1,73 @@
+{
+    "screenTimeTracker": {
+      "secondsBetweenBatches": 300
+    },
+    "deckLengthLimit": 65536,
+    "rankMatch": {
+      "matchmakeRankMinimum": 3,
+      "timeToSwitchNpc": 30,
+      "rankLotteryTable": [
+        5,
+        80,
+        15
+      ],
+      "leaderboardFetchCount": 10,
+      "rewardLearningPointRates": [],
+      "rewardGoldRates": []
+    },
+    "rankFriendMatch": {
+      "matchmakeRankMinimum": 3,
+      "timeToSwitchNpc": 120,
+      "rankLotteryTable": [
+        5,
+        80,
+        15
+      ],
+      "leaderboardFetchCount": 10,
+      "rewardLearningPointRates": [],
+      "rewardGoldRates": []
+    },
+    "doubleMatch": {
+      "matchmakeRankMinimum": 3,
+      "timeToSwitchNpc": 30,
+      "rankLotteryTable": [
+        5,
+        80,
+        15
+      ],
+      "leaderboardFetchCount": 10,
+      "rewardLearningPointRates": [],
+      "rewardGoldRates": []
+    },
+    "doubleFriendMatch": {
+      "matchmakeRankMinimum": 3,
+      "timeToSwitchNpc": 120,
+      "rankLotteryTable": [
+        5,
+        80,
+        15
+      ],
+      "leaderboardFetchCount": 10,
+      "rewardLearningPointRates": [],
+      "rewardGoldRates": []
+    },
+    "learning": {
+      "matchmakeRankMinimum": 3,
+      "timeToSwitchNpc": 30,
+      "rankLotteryTable": [
+        5,
+        80,
+        15
+      ],
+      "leaderboardFetchCount": 10,
+      "rewardLearningPointRates": [],
+      "rewardGoldRates": []
+    },
+    "battle": {
+      "rewardLearningPointRates": [],
+      "rewardGoldRates": []
+    },
+    "roulettes": [],
+    "exhibitions": [],
+    "surveys": []
+  }
